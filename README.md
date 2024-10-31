@@ -8,7 +8,6 @@
 ## 📜 Overview
 This project is focused on developing a computer vision-based object detection system to identify food products displayed on store shelves. Such a system could be highly beneficial in various scenarios:
 - **Assistive Technology**: Supporting visually impaired customers by helping them locate specific products on shelves.
-- **Store Management**: Aiding store employees in detecting low stock, misplaced products, or performing shelf audits more efficiently.
 
 ## 🎯 Objectives
 - **Single Instance Detection**: Detect individual instances of products on a shelf based on a reference image.
