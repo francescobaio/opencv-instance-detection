@@ -58,6 +58,6 @@ For each detected product, the system outputs:
 
 
 ## 📧 Contact
-- Francesco Baiocchi - francesco.baiocchi2@stud.unibo.it
-- Leonardo Petrilli - leonardo.petrilli@stud.unibo.it
+- Francesco Baiocchi - francesco.baiocchi2@studio.unibo.it
+- Leonardo Petrilli - leonardo.petrilli@studio.unibo.it
 ---
